@@ -23,7 +23,7 @@
     [label sizeToFit];
     label.center = self.view.center;
     [self.view addSubview:label];
-    // ここまでを追加
+    // ここまで
 }
 
 - (void)didReceiveMemoryWarning
